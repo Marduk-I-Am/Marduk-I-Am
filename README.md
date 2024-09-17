@@ -5,7 +5,7 @@ Hi there 👋 I'm Marduk.
 Thank you for visiting my page.
 
 Here I plan to "show my work" of what I have learned and what I continue to learn.
-I am not sure where this page will lead but I hope, at the very least, be a help to others.
+I am not sure where this page will lead but I hope it can, at the very least, be a help to others.
 
 If I have learned it, I will do my best to get it on here in some way.
 Hopefully I will be able to keep it organized in a fashion that will be easy to follow. Not like my brain which can be quite chaotic.
