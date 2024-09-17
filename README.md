@@ -8,7 +8,7 @@ Here I plan to "show my work" as I learn.
 I am not sure where this page will lead but I hope it helps others.
 
 If I learn it, I will do my best to get it on here in some way.
-Hopefully I will be able to keep it organized in some way that will be easy to follow. Not like my brain which can be quite chaotic.
+Hopefully I will be able to keep it organized in a fashion that will be easy to follow. Not like my brain which can be quite chaotic.
 
 <!--
 **Marduk-I-Am/Marduk-I-Am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
