@@ -1,6 +1,7 @@
 # Marduk-I-Am
+### Cybersecurity Enthusiast | Bug Bounty Hunter | CTF Competitor
 
-## Hi there 👋 I am Marduk
+## Hi there 👋 I'm Marduk.
 ## Thank you for visiting my page.
 
 <!--
