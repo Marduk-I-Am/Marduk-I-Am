@@ -1,4 +1,7 @@
-## Hi there 👋
+# Marduk-I-Am
+
+## Hi there 👋 I am Marduk
+## Thank you for visiting my page.
 
 <!--
 **Marduk-I-Am/Marduk-I-Am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
