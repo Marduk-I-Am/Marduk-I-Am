@@ -11,10 +11,18 @@ If I have learned it, I will do my best to get it on here in some way.
 Hopefully I will be able to keep it organized in a fashion that will be easy to follow. Not like my brain which can be quite chaotic.
 
 If you have a question about anything, or find something that is wrong, or just want to say 'Hello'
+
+---
+
 ### 📫 Please feel free to reach out. You can find me on:
 
 Twitter/X: [@marduk_i_am](https://x.com/marduk_i_am)
-Mastodon: [@Marduk_James@infosec.exchange](https://infosec.exchange/@Marduk_James)
+
+Mastadon: [@Marduk_James@infosec.exchange](https://infosec.exchange/@Marduk_James)
+
+BlueSky: [@marduk-james.bsky.social](https://bsky.app/profile/marduk-james.bsky.social)
+
+Medium: [marduk.i.am](https://medium.com/@marduk.i.am)
 <!--
 **Marduk-I-Am/Marduk-I-Am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
