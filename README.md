@@ -4,13 +4,11 @@
 Hi there 👋 I'm Marduk.
 Thank you for visiting my page.
 
-Here I plan to "show my work" of what I have learned and what I continue to learn.
-I am not sure where this page will lead but I hope it can, at the very least, be a help to others.
+This space is where I document my learning journey in cybersecurity, including labs, CTFs, tooling, and write-ups. The goal is to “show my work” — not just the final answers, but the thought process, techniques, and lessons learned along the way.
 
-If I have learned it, I will do my best to get it on here in some way.
-Hopefully I will be able to keep it organized in a fashion that will be easy to follow. Not like my brain which can be quite chaotic.
+Everything here reflects what I’ve learned so far and what I continue to learn. I do my best to keep things structured, reproducible, and beginner-friendly where possible.
 
-If you have a question about anything, or find something that is wrong, or just want to say 'Hello'
+If you spot an error, have a question, or just want to say hello, feel free to reach out.
 
 ---
 
